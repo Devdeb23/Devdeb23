@@ -24,10 +24,10 @@ My goal is to secure a **Full Remote Internship or Junior Trainee** opportunity 
 
 | Type | Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Python (in depth study), C++ (in study), SQL (in study), JavaScript (basic) [cite: 26] |
-| **Tools & Versioning** | [cite_start]Git (basic), Linux, Visual Studio Code, IntelliJ IDEA [cite: 26, 29] |
-| **Database** | [cite_start]MySQL (basic), Dbeaver [cite: 27] |
-| **Professional Background** | [cite_start]WordPress, Adobe Experience Manager (AEM) [cite: 26] |
+| **Languages** | Python (in depth study), C++ (in study), SQL (in study), JavaScript (basic)  |
+| **Tools & Versioning** | Git (basic), Linux, Visual Studio Code, IntelliJ IDEA  |
+| **Database** | MySQL (basic), Dbeaver  |
+| **Professional Background** | WordPress, Adobe Experience Manager (AEM)  |
 
 Type | Technologies |
 | :--- | :--- |
