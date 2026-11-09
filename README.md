@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Foundational Programmer & Problem-Solver
 
-I am a Computer Science student at Università Telematica Pegaso with a strong foundation in IT, actively pivoting from Web Development (AEM/WordPress) to core programming roles. 
+I am a Computer Science student at Università Telematica Pegaso with a strong passion in IT, actively pivoting from Web Development (AEM/WordPress) to core programming roles. 
 I am currently focused on building a robust technical foundation in programming and system logic, leveraging a background in enterprise IT. 
 ---
 
@@ -24,17 +24,11 @@ My goal is to secure a **Full Remote Internship or Junior Trainee** opportunity 
 
 | Type | Technologies |
 | :--- | :--- |
-| **Languages** | Python (in depth study), C++ (in study), SQL (in study), JavaScript (basic)  |
-| **Tools & Versioning** | Git (basic), Linux, Visual Studio Code, IntelliJ IDEA  |
+| **Languages** | Python (in depth study), C++ (in study), SQL (in study), JavaScript (neophyte)  |
+| **Tools & Versioning** | Git (basic), Linux, Visual Studio Code (basic) , IntelliJ IDEA  |
 | **Database** | MySQL (basic), Dbeaver  |
 | **Professional Background** | WordPress, Adobe Experience Manager (AEM)  |
 
-Type | Technologies |
-| :--- | :--- |
-| **Core Languages** | Python (in depth study), C++ (in study), SQL (in study) , JavaScript (basic) , Java (basic) |
-| **Tools & Infrastructure** | Git , Linux (basic) , Visual Studio Code, IntelliJ IDEA |
-| **Background Platforms** | WordPress, Adobe Experience Manager (AEM), MySQL |
-| **Soft Skills** | Analytical Thinking, Attention to Detail (Precision), Rapid Learning , Entusiast |
 
 ---
 
